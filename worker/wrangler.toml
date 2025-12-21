@@ -3,6 +3,7 @@
 name = "webapp-deploy"
 main = "src/index.ts"
 compatibility_date = "2024-01-01"
+account_id = "cdcfb03b1a24642c2047259f50bf8edc"
 
 # Worker 类型
 workers_dev = true
